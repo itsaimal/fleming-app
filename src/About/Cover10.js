@@ -12,7 +12,7 @@ Alexander Fleming</h1>
             </div>
 
             <div>
-                <img src="https://fleming.app/img/landing/png/rounded-pics/fleming-rounded-min.png"/>
+                <img src="https://fleming.app/img/landing/png/rounded-pics/fleming-rounded-min.png" alt="pic"/>
             </div>
             
         </div>

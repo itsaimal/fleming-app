@@ -5,7 +5,7 @@ function Cover3() {
         <div className="md:flex justify-center mt-16">
             <div>
                 <h1 className="text-4xl font-semibold text-blue-800 text-center mb-7">Roadmap</h1>
-                <img className="max-w-6xl" src="https://fleming.app/img/landing/svg/infographics/roadmap-en.svg"/>
+                <img className="max-w-6xl" src="https://fleming.app/img/landing/svg/infographics/roadmap-en.svg" alt="pic"/>
             </div>
             
         </div>

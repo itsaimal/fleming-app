@@ -15,7 +15,7 @@ function Cover4() {
                 </ul>
             </div>
             <div>
-                <img src="https://fleming.app/img/landing/png/rounded-pics/office-work-rounded-min.png"/>
+                <img src="https://fleming.app/img/landing/png/rounded-pics/office-work-rounded-min.png" alt="pic"/>
             </div>
         </div>
     )
